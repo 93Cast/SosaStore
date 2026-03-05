@@ -36,13 +36,11 @@ Permite el registro y autenticación de usuarios con roles, gestión de producto
 
 ## 🗂️ Estructura del proyecto
 src/main/java/com/sosastore/tienda
-│
 ├── config → Configuración de seguridad
 ├── controller → Controladores MVC
 ├── model → Entidades JPA
 ├── repository → Interfaces JPA
 ├── service → Lógica de negocio
-
 
 ---
 
