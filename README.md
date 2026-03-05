@@ -104,4 +104,4 @@ Este proyecto fue desarrollado como práctica para reforzar conocimientos en:
 ## 👨‍💻 Autor
 
 Desarrollado por Daniel Sosa  
-Estudiante de Ingeniería en Sistemas y desarrollador backend en formación.
+Ingeniero en Sistemas y desarrollador backend.
